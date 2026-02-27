@@ -8,8 +8,8 @@ export default function About() {
         <div className="lg:col-span-4">
           <h2 className="text-4xl font-display font-bold mb-8">Basic Info</h2>
           <p className="text-white/60 leading-relaxed">
-            科班出身，2年平面设计成熟经验。<br/>
-            具备品牌自媒体运营视觉设计成熟经验，以及包装设计从调研立项到落地的全流程经验。
+            懂设计的新媒体运营专员。<br/>
+            2年品牌自媒体运营视觉设计成熟经验，2年市场运营全流程经验。
           </p>
         </div>
 
@@ -22,18 +22,18 @@ export default function About() {
             <div className="space-y-8">
               <div>
                 <h4 className="text-lg font-bold">上海四个石头广告公司</h4>
-                <p className="text-sm text-white/60 mb-2">平面设计（正式）</p>
+                <p className="text-sm text-white/60 mb-2">平面设计</p>
                 <p className="text-sm text-white/50 leading-relaxed">
                   负责松下电器旗下卫浴和康养品牌的双微、小红书运营内容及线下物料；
                   负责贵宴樽与艺术家跨界联名活动视觉。
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-bold">上海微盟企业发展有限公司</h4>
-                <p className="text-sm text-white/60 mb-2">平面设计（实习）</p>
+                <h4 className="text-lg font-bold">杭州科百特过滤器材有限公司</h4>
+                <p className="text-sm text-white/60 mb-2">市场专员</p>
                 <p className="text-sm text-white/50 leading-relaxed">
-                  独立负责雀巢公众号推文设计，TEAMPRO视频号运营设计；
-                  参与薇诺娜、百雀羚等美妆项目视觉设计。
+                  独立负责多平台新媒体运营，主导海内外展会与活动全流程策划；
+                  数据驱动内容优化。
                 </p>
               </div>
             </div>
